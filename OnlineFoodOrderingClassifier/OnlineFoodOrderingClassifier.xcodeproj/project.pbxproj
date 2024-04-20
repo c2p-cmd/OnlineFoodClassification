@@ -12,6 +12,7 @@
 		0082A7822BCD06E0003A74AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0082A7812BCD06E0003A74AA /* Assets.xcassets */; };
 		0082A7862BCD06E0003A74AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0082A7852BCD06E0003A74AA /* Preview Assets.xcassets */; };
 		0082A78F2BCD0ABF003A74AA /* OnlineFoodOrderingClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0082A78E2BCD0ABF003A74AA /* OnlineFoodOrderingClassifier.mlmodel */; };
+		00AB57B42BD394BB00E5FDA0 /* ContnetView+ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AB57B32BD394BB00E5FDA0 /* ContnetView+ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0082A7832BCD06E0003A74AA /* OnlineFoodOrderingClassifier.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OnlineFoodOrderingClassifier.entitlements; sourceTree = "<group>"; };
 		0082A7852BCD06E0003A74AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0082A78E2BCD0ABF003A74AA /* OnlineFoodOrderingClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = OnlineFoodOrderingClassifier.mlmodel; sourceTree = "<group>"; };
+		00AB57B32BD394BB00E5FDA0 /* ContnetView+ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContnetView+ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				0082A77D2BCD06DF003A74AA /* OnlineFoodOrderingClassifierApp.swift */,
 				0082A77F2BCD06DF003A74AA /* ContentView.swift */,
+				00AB57B32BD394BB00E5FDA0 /* ContnetView+ViewModel.swift */,
 				0082A7812BCD06E0003A74AA /* Assets.xcassets */,
 				0082A78E2BCD0ABF003A74AA /* OnlineFoodOrderingClassifier.mlmodel */,
 				0082A7832BCD06E0003A74AA /* OnlineFoodOrderingClassifier.entitlements */,
@@ -145,6 +148,7 @@
 				0082A7802BCD06DF003A74AA /* ContentView.swift in Sources */,
 				0082A77E2BCD06DF003A74AA /* OnlineFoodOrderingClassifierApp.swift in Sources */,
 				0082A78F2BCD0ABF003A74AA /* OnlineFoodOrderingClassifier.mlmodel in Sources */,
+				00AB57B42BD394BB00E5FDA0 /* ContnetView+ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
