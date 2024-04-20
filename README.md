@@ -20,4 +20,4 @@
 ## App Demo [link](OnlineFoodOrderingClassifier/OnlineFoodOrderingClassifier/ContnetView+ViewModel.swift)
 <img height="400" src="ss/ss.png"/>
 
-[Video](video.html)
+[Video](https://github.com/c2p-cmd/OnlineFoodClassification/raw/master/ss/video.mp4)
