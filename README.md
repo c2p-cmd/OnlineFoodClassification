@@ -15,10 +15,9 @@
 
 ## Playground of how I built the model
 [ML Playground](FoodData.playground)
-<img width="450" alt="Screenshot 2024-04-20 at 11 42 08" src="https://github.com/c2p-cmd/OnlineFoodClassification/assets/60012248/145065e4-3b43-4fd8-bae5-45bec735d26f">
+<img width="450" alt="Screenshot 2024-04-20 at 11 42 08" src="https://github.com/c2p-cmd/OnlineFoodClassification/assets/60012248/145065e4-3b43-4fd8-bae5-45bec735d26f"/>
 
 ## App Demo [link](OnlineFoodOrderingClassifier/OnlineFoodOrderingClassifier/ContnetView+ViewModel.swift)
-![demo_ss](ss/ss.png)
-<video width="450" muted>
-    <source src="ss/video.mp4" type="video/mp4">
-</video>
+<img height="400" src="ss/ss.png"/>
+
+[Video](video.html)
